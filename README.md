@@ -13,3 +13,5 @@ This is not any game but you may call it a game , it just check a how sharp your
 
 
 ### Mobile View - 
+<img src="https://user-images.githubusercontent.com/66429038/120230645-6c5a1980-c26d-11eb-91e6-06c349b34ea1.jpeg" width="280" height="510">
+
