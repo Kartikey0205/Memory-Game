@@ -8,5 +8,8 @@ This is not any game but you may call it a game , it just check a how sharp your
 + <code> When ever you bored come here and spent some time over this , you will enjoy it the most </code>
 
 
-### Preview - 
+### Web View - 
+<img src="https://user-images.githubusercontent.com/66429038/120224896-edabaf00-c261-11eb-9f37-989dc1a12081.png">
 
+
+### Mobile View - 
